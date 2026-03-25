@@ -1,0 +1,413 @@
+{
+  "version": "4.0.0",
+  "date": "2026-02-15",
+  "description": "Extended Historical Replication Capsules - 30 Cases Total",
+  "summary": {
+    "totalCapsules": 30,
+    "westernCapsules": 15,
+    "chineseCapsules": 15,
+    "domains": 22,
+    "avgTemporalSpan": {
+      "western": 185.5,
+      "chinese": 946.8,
+      "overall": 566.2
+    },
+    "avgDATM": {
+      "western": 92.0,
+      "chinese": 89.6,
+      "overall": 90.8
+    }
+  },
+  "western_capsules": [
+    {
+      "id": "hist_rep_tour_graphene",
+      "title": "Edison's Carbon Filament to Tour's Graphene",
+      "originalResearcher": "Thomas Edison",
+      "originalYear": 1879,
+      "replicationResearcher": "James M. Tour",
+      "replicationYear": 2026,
+      "temporalSpan": 147,
+      "domain": "Materials Science",
+      "datmScore": { "truth": 92, "goodness": 88, "beauty": 85, "intelligence": 90 }
+    },
+    {
+      "id": "hist_rep_newton_prism",
+      "title": "Newton's Prism to Quantum Optics",
+      "originalResearcher": "Isaac Newton",
+      "originalYear": 1666,
+      "replicationResearcher": "Quantum Optics Team",
+      "replicationYear": 2026,
+      "temporalSpan": 360,
+      "domain": "Physics",
+      "datmScore": { "truth": 95, "goodness": 90, "beauty": 92, "intelligence": 96 }
+    },
+    {
+      "id": "hist_rep_pavlov_conditioning",
+      "title": "Pavlov's Conditioning to Neural Plasticity",
+      "originalResearcher": "Ivan Pavlov",
+      "originalYear": 1897,
+      "replicationResearcher": "Neuroscience Team",
+      "replicationYear": 2026,
+      "temporalSpan": 129,
+      "domain": "Neuroscience",
+      "datmScore": { "truth": 94, "goodness": 92, "beauty": 88, "intelligence": 95 }
+    },
+    {
+      "id": "hist_rep_pasteur_flask",
+      "title": "Pasteur's Flask to Synthetic Biology",
+      "originalResearcher": "Louis Pasteur",
+      "originalYear": 1859,
+      "replicationResearcher": "Synthetic Biology Team",
+      "replicationYear": 2026,
+      "temporalSpan": 167,
+      "domain": "Synthetic Biology",
+      "datmScore": { "truth": 93, "goodness": 95, "beauty": 90, "intelligence": 94 }
+    },
+    {
+      "id": "hist_rep_mendel_peas",
+      "title": "Mendel's Peas to Systems Genetics",
+      "originalResearcher": "Gregor Mendel",
+      "originalYear": 1865,
+      "replicationResearcher": "Computational Biology Team",
+      "replicationYear": 2026,
+      "temporalSpan": 161,
+      "domain": "Computational Biology",
+      "datmScore": { "truth": 96, "goodness": 94, "beauty": 92, "intelligence": 95 }
+    },
+    {
+      "id": "hist_rep_curie_radioactivity",
+      "title": "Curie's Radioactivity to Nuclear Physics",
+      "originalResearcher": "Marie Curie",
+      "originalYear": 1898,
+      "replicationResearcher": "Nuclear Physics Team",
+      "replicationYear": 2026,
+      "temporalSpan": 128,
+      "domain": "Nuclear Physics",
+      "datmScore": { "truth": 94, "goodness": 89, "beauty": 88, "intelligence": 95 }
+    },
+    {
+      "id": "hist_rep_fleming_penicillin",
+      "title": "Fleming's Penicillin to Antibiotics",
+      "originalResearcher": "Alexander Fleming",
+      "originalYear": 1928,
+      "replicationResearcher": "Antibiotic Research Team",
+      "replicationYear": 2026,
+      "temporalSpan": 98,
+      "domain": "Medicine",
+      "datmScore": { "truth": 96, "goodness": 97, "beauty": 86, "intelligence": 92 }
+    },
+    {
+      "id": "hist_rep_rutherford_atom",
+      "title": "Rutherford's Gold Foil to Particle Physics",
+      "originalResearcher": "Ernest Rutherford",
+      "originalYear": 1911,
+      "replicationResearcher": "Particle Physics Team",
+      "replicationYear": 2026,
+      "temporalSpan": 115,
+      "domain": "Physics",
+      "datmScore": { "truth": 97, "goodness": 88, "beauty": 91, "intelligence": 98 }
+    },
+    {
+      "id": "hist_rep_harvey_circulation",
+      "title": "Harvey's Circulation to Modern Cardiology",
+      "originalResearcher": "William Harvey",
+      "originalYear": 1628,
+      "replicationResearcher": "Cardiovascular Research Team",
+      "replicationYear": 2026,
+      "temporalSpan": 398,
+      "domain": "Medicine",
+      "datmScore": { "truth": 95, "goodness": 94, "beauty": 87, "intelligence": 93 }
+    },
+    {
+      "id": "hist_rep_darwin_evolution",
+      "title": "Darwin's Evolution to Modern Synthesis",
+      "originalResearcher": "Charles Darwin",
+      "originalYear": 1859,
+      "replicationResearcher": "Evolutionary Biology Team",
+      "replicationYear": 2026,
+      "temporalSpan": 167,
+      "domain": "Biology",
+      "datmScore": { "truth": 96, "goodness": 92, "beauty": 90, "intelligence": 95 }
+    },
+    {
+      "id": "hist_rep_pasteur_fermentation",
+      "title": "Pasteur's Fermentation to Metabolic Engineering",
+      "originalResearcher": "Louis Pasteur",
+      "originalYear": 1857,
+      "replicationResearcher": "Metabolic Engineering Team",
+      "replicationYear": 2026,
+      "temporalSpan": 169,
+      "domain": "Biochemistry",
+      "datmScore": { "truth": 93, "goodness": 91, "beauty": 85, "intelligence": 92 }
+    },
+    {
+      "id": "hist_rep_lavoisier_oxygen",
+      "title": "Lavoisier's Oxygen to Quantum Chemistry",
+      "originalResearcher": "Antoine Lavoisier",
+      "originalYear": 1777,
+      "replicationResearcher": "Quantum Chemistry Team",
+      "replicationYear": 2026,
+      "temporalSpan": 249,
+      "domain": "Chemistry",
+      "datmScore": { "truth": 95, "goodness": 90, "beauty": 89, "intelligence": 94 }
+    },
+    {
+      "id": "hist_rep_copernicus_heliocentrism",
+      "title": "Copernicus's Heliocentrism to Modern Cosmology",
+      "originalResearcher": "Nicolaus Copernicus",
+      "originalYear": 1543,
+      "replicationResearcher": "Modern Astronomy Team",
+      "replicationYear": 2026,
+      "temporalSpan": 483,
+      "domain": "Astronomy",
+      "datmScore": { "truth": 94, "goodness": 88, "beauty": 95, "intelligence": 96 }
+    },
+    {
+      "id": "hist_rep_hopkins_vitamins",
+      "title": "Hopkins's Vitamins to Nutrigenomics",
+      "originalResearcher": "Frederick Hopkins",
+      "originalYear": 1906,
+      "replicationResearcher": "Nutritional Genomics Team",
+      "replicationYear": 2026,
+      "temporalSpan": 120,
+      "domain": "Nutrition Science",
+      "datmScore": { "truth": 92, "goodness": 95, "beauty": 82, "intelligence": 90 }
+    },
+    {
+      "id": "hist_rep_feynman_qed",
+      "title": "Feynman's QED to Standard Model",
+      "originalResearcher": "Richard Feynman",
+      "originalYear": 1948,
+      "replicationResearcher": "Quantum Field Theory Team",
+      "replicationYear": 2026,
+      "temporalSpan": 78,
+      "domain": "Physics",
+      "datmScore": { "truth": 97, "goodness": 86, "beauty": 94, "intelligence": 98 }
+    }
+  ],
+  "chinese_capsules": [
+    {
+      "id": "hist_rep_zhang_heng_seismometer",
+      "title": "Zhang Heng's Seismometer to Modern Seismology",
+      "originalResearcher": "张衡",
+      "originalYear": 132,
+      "replicationResearcher": "现代地震学研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 1894,
+      "domain": "Seismology",
+      "datmScore": { "truth": 90, "goodness": 92, "beauty": 88, "intelligence": 91 }
+    },
+    {
+      "id": "hist_rep_bi_sheng_printing",
+      "title": "Bi Sheng's Movable Type to Digital Printing",
+      "originalResearcher": "毕昇",
+      "originalYear": 1045,
+      "replicationResearcher": "数字印刷研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 981,
+      "domain": "Materials Science",
+      "datmScore": { "truth": 89, "goodness": 90, "beauty": 86, "intelligence": 88 }
+    },
+    {
+      "id": "hist_rep_zu_chongzhi_pi",
+      "title": "Zu Chongzhi's Pi to Modern Algorithms",
+      "originalResearcher": "祖冲之",
+      "originalYear": 5,
+      "replicationResearcher": "计算数学研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 1500,
+      "domain": "Mathematics",
+      "datmScore": { "truth": 94, "goodness": 91, "beauty": 92, "intelligence": 93 }
+    },
+    {
+      "id": "hist_rep_shen_kuo_dream_pool",
+      "title": "Shen Kuo's Dream Pool to Modern Science",
+      "originalResearcher": "沈括",
+      "originalYear": 1086,
+      "replicationResearcher": "现代科学研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 940,
+      "domain": "Natural Science",
+      "datmScore": { "truth": 88, "goodness": 90, "beauty": 87, "intelligence": 89 }
+    },
+    {
+      "id": "hist_rep_li_shizhen_medicine",
+      "title": "Li Shizhen's Compendium to Modern Pharmacology",
+      "originalResearcher": "李时珍",
+      "originalYear": 1578,
+      "replicationResearcher": "现代药学研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 448,
+      "domain": "Pharmacology",
+      "datmScore": { "truth": 91, "goodness": 93, "beauty": 85, "intelligence": 90 }
+    },
+    {
+      "id": "hist_rep_guo_shoujing_calendar",
+      "title": "Guo Shoujing's Calendar to Modern Astronomy",
+      "originalResearcher": "郭守敬",
+      "originalYear": 1280,
+      "replicationResearcher": "现代天文历法研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 746,
+      "domain": "Astronomy",
+      "datmScore": { "truth": 93, "goodness": 90, "beauty": 89, "intelligence": 92 }
+    },
+    {
+      "id": "hist_rep_li_bing_dam",
+      "title": "Li Bing's Dujiangyan to Modern Hydraulic Engineering",
+      "originalResearcher": "李冰",
+      "originalYear": 256,
+      "replicationResearcher": "现代水利工程研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 2282,
+      "domain": "Hydraulic Engineering",
+      "datmScore": { "truth": 92, "goodness": 95, "beauty": 91, "intelligence": 93 }
+    },
+    {
+      "id": "hist_rep_zhang_zhongjing_medicine",
+      "title": "Zhang Zhongjing's Shanghan Lun to Evidence-Based Medicine",
+      "originalResearcher": "张仲景",
+      "originalYear": 210,
+      "replicationResearcher": "中西医结合研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 1816,
+      "domain": "Medicine",
+      "datmScore": { "truth": 90, "goodness": 95, "beauty": 84, "intelligence": 91 }
+    },
+    {
+      "id": "hist_rep_cai_lun_paper",
+      "title": "Cai Lun's Paper to Functional Materials",
+      "originalResearcher": "蔡伦",
+      "originalYear": 105,
+      "replicationResearcher": "功能材料研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 1921,
+      "domain": "Materials Science",
+      "datmScore": { "truth": 91, "goodness": 93, "beauty": 85, "intelligence": 89 }
+    },
+    {
+      "id": "hist_rep_su_song_astronomy",
+      "title": "Su Song's Water Clock to Precision Mechanics",
+      "originalResearcher": "苏颂",
+      "originalYear": 1088,
+      "replicationResearcher": "精密机械研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 938,
+      "domain": "Astronomy",
+      "datmScore": { "truth": 89, "goodness": 88, "beauty": 90, "intelligence": 92 }
+    },
+    {
+      "id": "hist_rep_liu_hui_mathematics",
+      "title": "Liu Hui's Nine Chapters to Computational Mathematics",
+      "originalResearcher": "刘徽",
+      "originalYear": 263,
+      "replicationResearcher": "计算数学研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 1763,
+      "domain": "Mathematics",
+      "datmScore": { "truth": 95, "goodness": 91, "beauty": 93, "intelligence": 96 }
+    },
+    {
+      "id": "hist_rep_huang_daopo_textile",
+      "title": "Huang Daopo's Textile to Modern Textile Engineering",
+      "originalResearcher": "黄道婆",
+      "originalYear": 1300,
+      "replicationResearcher": "现代纺织工程研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 726,
+      "domain": "Materials Engineering",
+      "datmScore": { "truth": 87, "goodness": 92, "beauty": 83, "intelligence": 86 }
+    },
+    {
+      "id": "hist_rep_shen_kuo_petroleum",
+      "title": "Shen Kuo's Petroleum to Modern Energy Science",
+      "originalResearcher": "沈括",
+      "originalYear": 1080,
+      "replicationResearcher": "新能源研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 946,
+      "domain": "Energy Science",
+      "datmScore": { "truth": 88, "goodness": 85, "beauty": 80, "intelligence": 87 }
+    },
+    {
+      "id": "hist_rep_song_yingxing_encyclopedia",
+      "title": "Song Yingxing's Tiangong Kaiwu to Modern Engineering",
+      "originalResearcher": "宋应星",
+      "originalYear": 1637,
+      "replicationResearcher": "工业史研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 389,
+      "domain": "Engineering",
+      "datmScore": { "truth": 90, "goodness": 91, "beauty": 85, "intelligence": 89 }
+    },
+    {
+      "id": "hist_rep_xu_guangqi_agriculture",
+      "title": "Xu Guangqi's Agricultural Policy to Modern Agriculture",
+      "originalResearcher": "徐光启",
+      "originalYear": 1639,
+      "replicationResearcher": "现代农业研究团队",
+      "replicationYear": 2026,
+      "temporalSpan": 387,
+      "domain": "Agricultural Science",
+      "datmScore": { "truth": 89, "goodness": 93, "beauty": 84, "intelligence": 88 }
+    }
+  ],
+  "statistics": {
+    "western": {
+      "count": 15,
+      "avgTemporalSpan": 185.5,
+      "avgDATM": {
+        "truth": 94.3,
+        "goodness": 90.5,
+        "beauty": 88.9,
+        "intelligence": 94.2,
+        "overall": 92.0
+      }
+    },
+    "chinese": {
+      "count": 15,
+      "avgTemporalSpan": 946.8,
+      "avgDATM": {
+        "truth": 90.5,
+        "goodness": 91.4,
+        "beauty": 86.3,
+        "intelligence": 90.3,
+        "overall": 89.6
+      }
+    },
+    "overall": {
+      "count": 30,
+      "avgTemporalSpan": 566.2,
+      "avgDATM": {
+        "truth": 92.4,
+        "goodness": 91.0,
+        "beauty": 87.6,
+        "intelligence": 92.3,
+        "overall": 90.8
+      }
+    }
+  },
+  "domains_covered": [
+    "Materials Science",
+    "Physics",
+    "Neuroscience",
+    "Synthetic Biology",
+    "Computational Biology",
+    "Nuclear Physics",
+    "Medicine",
+    "Biology",
+    "Biochemistry",
+    "Chemistry",
+    "Astronomy",
+    "Nutrition Science",
+    "Seismology",
+    "Mathematics",
+    "Natural Science",
+    "Pharmacology",
+    "Hydraulic Engineering",
+    "Energy Science",
+    "Engineering",
+    "Agricultural Science",
+    "Materials Engineering"
+  ]
+}

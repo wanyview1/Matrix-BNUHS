@@ -1,0 +1,141 @@
+{
+  "name": "附中矩阵 (BNU-MATRIX)",
+  "description": "基于 EDU-MATRIX V1.3 社会中心生成式认知数字孪生架构。北京师范大学附属中学赛博智能体管理平台。集成环境上下文注入引擎(ECIE)、模块化逻辑演化协议(MLEP)、社交拓扑对齐模块(STAM)和历史复现知识胶囊系统。",
+  "version": "1.3.0",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "basedOn": {
+    "paper": "EDU-MATRIX: A Society-Centric Generative Cognitive Digital Twin Architecture for Secondary Education",
+    "venue": "ACM CHI 2026",
+    "authors": ["Wenjing Zhai", "Jianbin Zhang", "Tao Liu"]
+  },
+  "features": {
+    "ecie": {
+      "name": "环境上下文注入引擎",
+      "description": "基于空间位置动态注入规则，Rules = Gravity",
+      "enabled": true
+    },
+    "mlep": {
+      "name": "模块化逻辑演化协议",
+      "description": "知识胶囊融合，跨学科知识流动",
+      "enabled": true
+    },
+    "stam": {
+      "name": "社交拓扑对齐模块",
+      "description": "从社交图谱涌现安全约束，Agents = Coordinates",
+      "enabled": true
+    },
+    "historical_replication": {
+      "name": "历史复现知识胶囊",
+      "description": "集成5个历史复现案例，连接历史与未来的知识创新",
+      "enabled": true
+    },
+    "knowledge_salon": {
+      "name": "知识沙龙场景",
+      "description": "在数字孪生校园中开展历史复现知识讨论",
+      "enabled": true
+    },
+    "ui_components": {
+      "name": "前端UI组件",
+      "description": "知识沙龙面板和演示页面",
+      "enabled": true
+    }
+  },
+  "targets": {
+    "dialogueConsistency": "95.1%",
+    "globalResonanceSync": "98.8%",
+    "socialClusteringCoefficient": "0.75",
+    "valueInjectionEfficacy": "48%"
+  },
+  "historicalReplication": {
+    "capsuleCount": 5,
+    "avgTemporalSpan": "192.8年",
+    "avgDATMScore": 92.3,
+    "capsules": [
+      {
+        "id": "hist_rep_tour_graphene",
+        "title": "碳丝灯泡到乱层石墨烯",
+        "researcher": "Thomas Edison → James M. Tour",
+        "temporalSpan": 147
+      },
+      {
+        "id": "hist_rep_newton_prism",
+        "title": "牛顿棱镜到量子光学",
+        "researcher": "Isaac Newton → Quantum Optics Team",
+        "temporalSpan": 360
+      },
+      {
+        "id": "hist_rep_pavlov_conditioning",
+        "title": "巴甫洛夫条件反射到神经可塑性",
+        "researcher": "Ivan Pavlov → Neuroscience Team",
+        "temporalSpan": 129
+      },
+      {
+        "id": "hist_rep_pasteur_flask",
+        "title": "巴斯德鹅颈瓶到生命起源",
+        "researcher": "Louis Pasteur → Synthetic Biology Team",
+        "temporalSpan": 167
+      },
+      {
+        "id": "hist_rep_mendel_peas",
+        "title": "孟德尔豌豆到基因网络",
+        "researcher": "Gregor Mendel → Computational Biology Team",
+        "temporalSpan": 161
+      }
+    ]
+  },
+  "knowledgeSalon": {
+    "scenarioCount": 5,
+    "scenarios": [
+      {
+        "id": "scenario_001",
+        "title": "历史复现沙龙：碳丝到石墨烯的跨越",
+        "location": "classroom_301",
+        "method": "interdisciplinary-bridge"
+      },
+      {
+        "id": "scenario_002",
+        "title": "历史复现沙龙：牛顿棱镜与量子光学",
+        "location": "library_main",
+        "method": "methodology-transfer"
+      },
+      {
+        "id": "scenario_003",
+        "title": "历史复现沙龙：从巴甫洛夫到神经科学",
+        "location": "medical_lab",
+        "method": "conceptual-analogy"
+      },
+      {
+        "id": "scenario_004",
+        "title": "历史复现沙龙：孟德尔豌豆与基因网络",
+        "location": "science_lab",
+        "method": "methodology-transfer"
+      },
+      {
+        "id": "scenario_005",
+        "title": "历史复现沙龙：生命起源的探索",
+        "location": "gymnasium",
+        "method": "problem-recontextualization"
+      }
+    ]
+  },
+  "upgrade": {
+    "from": "1.2.0",
+    "date": "2026-01-31",
+    "changes": [
+      "添加历史复现胶囊集成模块 (historical_replication.ts)",
+      "集成 Tour 石墨烯、牛顿棱镜等5个历史复现案例",
+      "添加知识沙龙场景模块 (knowledge_salon.ts)",
+      "创建5个知识沙龙应用场景",
+      "添加前端UI组件 (KnowledgeSalonPanel.tsx)",
+      "添加演示页面 (demo_knowledge_salon_ui.tsx)",
+      "增强 MLEP 知识融合引擎",
+      "添加时间跨度分析功能",
+      "添加 DATM 评分系统",
+      "更新性能指标目标"
+    ]
+  }
+}

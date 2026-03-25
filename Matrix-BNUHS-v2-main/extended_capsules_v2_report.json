@@ -1,0 +1,227 @@
+{
+  "version": "2.0",
+  "generatedAt": "2026-01-31T07:21:26.701919",
+  "originalCount": 10,
+  "extendedCount": 6,
+  "totalCount": 16,
+  "stats": {
+    "count": 16,
+    "avgTemporalSpan": 662.6875,
+    "avgDATMScore": {
+      "truth": 91.6875,
+      "goodness": 91.0625,
+      "beauty": 87.6875,
+      "intelligence": 91.3125
+    }
+  },
+  "capsules": [
+    {
+      "id": "hist_rep_tour_graphene",
+      "title": "爱迪生碳丝到石墨烯",
+      "researcher": "Edison (1879) → Tour (2026)",
+      "temporalSpan": 147,
+      "domain": "Materials Science",
+      "datmScore": {
+        "truth": 92,
+        "goodness": 88,
+        "beauty": 85,
+        "intelligence": 90
+      }
+    },
+    {
+      "id": "hist_rep_newton_prism",
+      "title": "牛顿棱镜到量子光学",
+      "researcher": "Newton (1666) → 量子光学团队 (2026)",
+      "temporalSpan": 360,
+      "domain": "Physics",
+      "datmScore": {
+        "truth": 95,
+        "goodness": 90,
+        "beauty": 92,
+        "intelligence": 96
+      }
+    },
+    {
+      "id": "hist_rep_pavlov_conditioning",
+      "title": "巴甫洛夫到神经可塑性",
+      "researcher": "Pavlov (1897) → 神经科学团队 (2026)",
+      "temporalSpan": 129,
+      "domain": "Neuroscience",
+      "datmScore": {
+        "truth": 94,
+        "goodness": 92,
+        "beauty": 88,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_pasteur_flask",
+      "title": "巴斯德到生命起源",
+      "researcher": "Pasteur (1859) → 合成生物学团队 (2026)",
+      "temporalSpan": 167,
+      "domain": "Synthetic Biology",
+      "datmScore": {
+        "truth": 93,
+        "goodness": 95,
+        "beauty": 90,
+        "intelligence": 94
+      }
+    },
+    {
+      "id": "hist_rep_mendel_peas",
+      "title": "孟德尔到基因网络",
+      "researcher": "Mendel (1865) → 计算生物学团队 (2026)",
+      "temporalSpan": 161,
+      "domain": "Computational Biology",
+      "datmScore": {
+        "truth": 96,
+        "goodness": 94,
+        "beauty": 92,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_zhang_heng_seismometer",
+      "title": "张衡地动仪与现代地震学",
+      "researcher": "张衡 (132) → 现代地震学团队 (2026)",
+      "temporalSpan": 1894,
+      "domain": "Seismology",
+      "datmScore": {
+        "truth": 90,
+        "goodness": 92,
+        "beauty": 88,
+        "intelligence": 91
+      }
+    },
+    {
+      "id": "hist_rep_bi_sheng_printing",
+      "title": "毕昇活字与数字印刷",
+      "researcher": "毕昇 (1045) → 数字印刷团队 (2026)",
+      "temporalSpan": 981,
+      "domain": "Materials Science",
+      "datmScore": {
+        "truth": 89,
+        "goodness": 90,
+        "beauty": 86,
+        "intelligence": 88
+      }
+    },
+    {
+      "id": "hist_rep_zu_chongzhi_pi",
+      "title": "祖冲之圆周率与算法",
+      "researcher": "祖冲之 (5世纪) → 计算数学团队 (2026)",
+      "temporalSpan": 1500,
+      "domain": "Mathematics",
+      "datmScore": {
+        "truth": 94,
+        "goodness": 91,
+        "beauty": 92,
+        "intelligence": 93
+      }
+    },
+    {
+      "id": "hist_rep_shen_kuo_dream_pool",
+      "title": "沈括梦溪与跨学科研究",
+      "researcher": "沈括 (1086) → 现代跨学科团队 (2026)",
+      "temporalSpan": 940,
+      "domain": "Natural Science",
+      "datmScore": {
+        "truth": 88,
+        "goodness": 90,
+        "beauty": 87,
+        "intelligence": 89
+      }
+    },
+    {
+      "id": "hist_rep_li_shizhen_medicine",
+      "title": "李时珍本草与现代药学",
+      "researcher": "李时珍 (1578) → 现代药学团队 (2026)",
+      "temporalSpan": 448,
+      "domain": "Pharmacology",
+      "datmScore": {
+        "truth": 91,
+        "goodness": 93,
+        "beauty": 85,
+        "intelligence": 90
+      }
+    },
+    {
+      "id": "hist_rep_apple_newton",
+      "title": "牛顿苹果与万有引力",
+      "researcher": "Isaac Newton (1666) → 现代物理学团队 (2026)",
+      "temporalSpan": 360,
+      "domain": "Physics",
+      "datmScore": {
+        "truth": 95,
+        "goodness": 92,
+        "beauty": 90,
+        "intelligence": 94
+      }
+    },
+    {
+      "id": "hist_rep_michelson_morley",
+      "title": "迈克耳孙-莫雷实验与相对论",
+      "researcher": "Michelson & Morley (1887) → 现代光学团队 (2026)",
+      "temporalSpan": 139,
+      "domain": "Physics",
+      "datmScore": {
+        "truth": 96,
+        "goodness": 90,
+        "beauty": 88,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_fleming_penicillin",
+      "title": "弗莱明青霉素与抗生素时代",
+      "researcher": "Alexander Fleming (1928) → 现代药学团队 (2026)",
+      "temporalSpan": 98,
+      "domain": "Medicine",
+      "datmScore": {
+        "truth": 93,
+        "goodness": 95,
+        "beauty": 85,
+        "intelligence": 91
+      }
+    },
+    {
+      "id": "hist_rep_zhang_zhen_suiyuan",
+      "title": "张骞出使西域与丝绸之路",
+      "researcher": "张骞 (138) → 现代地理学团队 (2026)",
+      "temporalSpan": 1888,
+      "domain": "Geography",
+      "datmScore": {
+        "truth": 88,
+        "goodness": 90,
+        "beauty": 86,
+        "intelligence": 89
+      }
+    },
+    {
+      "id": "hist_rep_song_dynasty_finance",
+      "title": "宋朝交子与数字货币",
+      "researcher": "宋朝政府 (1024) → 现代金融学团队 (2026)",
+      "temporalSpan": 1002,
+      "domain": "Economics",
+      "datmScore": {
+        "truth": 87,
+        "goodness": 88,
+        "beauty": 84,
+        "intelligence": 86
+      }
+    },
+    {
+      "id": "hist_rep_gongshang_technology",
+      "title": "宋应星天工开物与现代工程",
+      "researcher": "宋应星 (1637) → 现代工程学团队 (2026)",
+      "temporalSpan": 389,
+      "domain": "Engineering",
+      "datmScore": {
+        "truth": 86,
+        "goodness": 87,
+        "beauty": 85,
+        "intelligence": 85
+      }
+    }
+  ]
+}

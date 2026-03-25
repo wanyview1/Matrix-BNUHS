@@ -1,0 +1,301 @@
+{
+  "version": "3.0",
+  "generatedAt": "2026-01-31T08:02:57.642514",
+  "totalCount": 20,
+  "stats": {
+    "count": 20,
+    "avgTemporalSpan": 795.9,
+    "avgDATMScore": {
+      "truth": 91.4,
+      "goodness": 91.1,
+      "beauty": 87.45,
+      "intelligence": 90.95
+    },
+    "westCount": 10,
+    "eastCount": 10,
+    "westAvgSpan": 272.9,
+    "eastAvgSpan": 1318.9
+  },
+  "capsules": [
+    {
+      "id": "hist_rep_tour_graphene",
+      "title": "爱迪生碳丝到石墨烯",
+      "researcher": "Edison (1879) → Tour (2026)",
+      "temporalSpan": 147,
+      "domain": "Materials Science",
+      "origin": "West",
+      "datmScore": {
+        "truth": 92,
+        "goodness": 88,
+        "beauty": 85,
+        "intelligence": 90
+      }
+    },
+    {
+      "id": "hist_rep_newton_prism",
+      "title": "牛顿棱镜到量子光学",
+      "researcher": "Newton (1666) → 量子光学 (2026)",
+      "temporalSpan": 360,
+      "domain": "Physics",
+      "origin": "West",
+      "datmScore": {
+        "truth": 95,
+        "goodness": 90,
+        "beauty": 92,
+        "intelligence": 96
+      }
+    },
+    {
+      "id": "hist_rep_pavlov_conditioning",
+      "title": "巴甫洛夫到神经可塑性",
+      "researcher": "Pavlov (1897) → 神经科学 (2026)",
+      "temporalSpan": 129,
+      "domain": "Neuroscience",
+      "origin": "West",
+      "datmScore": {
+        "truth": 94,
+        "goodness": 92,
+        "beauty": 88,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_pasteur_flask",
+      "title": "巴斯德到生命起源",
+      "researcher": "Pasteur (1859) → 合成生物学 (2026)",
+      "temporalSpan": 167,
+      "domain": "Synthetic Biology",
+      "origin": "West",
+      "datmScore": {
+        "truth": 93,
+        "goodness": 95,
+        "beauty": 90,
+        "intelligence": 94
+      }
+    },
+    {
+      "id": "hist_rep_mendel_peas",
+      "title": "孟德尔到基因网络",
+      "researcher": "Mendel (1865) → 计算生物学 (2026)",
+      "temporalSpan": 161,
+      "domain": "Computational Biology",
+      "origin": "West",
+      "datmScore": {
+        "truth": 96,
+        "goodness": 94,
+        "beauty": 92,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_apple_newton",
+      "title": "牛顿苹果与万有引力",
+      "researcher": "Newton (1666) → 现代物理 (2026)",
+      "temporalSpan": 360,
+      "domain": "Physics",
+      "origin": "West",
+      "datmScore": {
+        "truth": 95,
+        "goodness": 92,
+        "beauty": 90,
+        "intelligence": 94
+      }
+    },
+    {
+      "id": "hist_rep_michelson_morley",
+      "title": "迈克耳孙-莫雷与相对论",
+      "researcher": "Michelson (1887) → 现代光学 (2026)",
+      "temporalSpan": 139,
+      "domain": "Physics",
+      "origin": "West",
+      "datmScore": {
+        "truth": 96,
+        "goodness": 90,
+        "beauty": 88,
+        "intelligence": 95
+      }
+    },
+    {
+      "id": "hist_rep_fleming_penicillin",
+      "title": "弗莱明青霉素与抗生素",
+      "researcher": "Fleming (1928) → 现代药学 (2026)",
+      "temporalSpan": 98,
+      "domain": "Medicine",
+      "origin": "West",
+      "datmScore": {
+        "truth": 93,
+        "goodness": 95,
+        "beauty": 85,
+        "intelligence": 91
+      }
+    },
+    {
+      "id": "hist_rep_darwin_evolution",
+      "title": "达尔文进化论与基因学",
+      "researcher": "Darwin (1859) → 现代进化生物学 (2026)",
+      "temporalSpan": 167,
+      "domain": "Biology",
+      "origin": "West",
+      "datmScore": {
+        "truth": 97,
+        "goodness": 94,
+        "beauty": 91,
+        "intelligence": 96
+      }
+    },
+    {
+      "id": "hist_rep_ibn_sina_canon",
+      "title": "阿维森纳《医典》",
+      "researcher": "Ibn Sina (1025) → 医学史 (2026)",
+      "temporalSpan": 1001,
+      "domain": "Medicine",
+      "origin": "West",
+      "datmScore": {
+        "truth": 87,
+        "goodness": 89,
+        "beauty": 84,
+        "intelligence": 86
+      }
+    },
+    {
+      "id": "hist_rep_zhang_heng_seismometer",
+      "title": "张衡地动仪",
+      "researcher": "张衡 (132) → 现代地震学 (2026)",
+      "temporalSpan": 1894,
+      "domain": "Seismology",
+      "origin": "East",
+      "datmScore": {
+        "truth": 90,
+        "goodness": 92,
+        "beauty": 88,
+        "intelligence": 91
+      }
+    },
+    {
+      "id": "hist_rep_bi_sheng_printing",
+      "title": "毕昇活字印刷",
+      "researcher": "毕昇 (1045) → 数字印刷 (2026)",
+      "temporalSpan": 981,
+      "domain": "Materials Science",
+      "origin": "East",
+      "datmScore": {
+        "truth": 89,
+        "goodness": 90,
+        "beauty": 86,
+        "intelligence": 88
+      }
+    },
+    {
+      "id": "hist_rep_zu_chongzhi_pi",
+      "title": "祖冲之圆周率",
+      "researcher": "祖冲之 (5世纪) → 计算数学 (2026)",
+      "temporalSpan": 1500,
+      "domain": "Mathematics",
+      "origin": "East",
+      "datmScore": {
+        "truth": 94,
+        "goodness": 91,
+        "beauty": 92,
+        "intelligence": 93
+      }
+    },
+    {
+      "id": "hist_rep_shen_kuo_dream_pool",
+      "title": "沈括梦溪笔谈",
+      "researcher": "沈括 (1086) → 跨学科 (2026)",
+      "temporalSpan": 940,
+      "domain": "Natural Science",
+      "origin": "East",
+      "datmScore": {
+        "truth": 88,
+        "goodness": 90,
+        "beauty": 87,
+        "intelligence": 89
+      }
+    },
+    {
+      "id": "hist_rep_li_shizhen_medicine",
+      "title": "李时珍本草纲目",
+      "researcher": "李时珍 (1578) → 现代药学 (2026)",
+      "temporalSpan": 448,
+      "domain": "Pharmacology",
+      "origin": "East",
+      "datmScore": {
+        "truth": 91,
+        "goodness": 93,
+        "beauty": 85,
+        "intelligence": 90
+      }
+    },
+    {
+      "id": "hist_rep_zhang_zhen_suiyuan",
+      "title": "张骞出使西域",
+      "researcher": "张骞 (138) → 现代地理 (2026)",
+      "temporalSpan": 1888,
+      "domain": "Geography",
+      "origin": "East",
+      "datmScore": {
+        "truth": 88,
+        "goodness": 90,
+        "beauty": 86,
+        "intelligence": 89
+      }
+    },
+    {
+      "id": "hist_rep_song_dynasty_finance",
+      "title": "宋朝交子",
+      "researcher": "宋朝 (1024) → 现代金融 (2026)",
+      "temporalSpan": 1002,
+      "domain": "Economics",
+      "origin": "East",
+      "datmScore": {
+        "truth": 87,
+        "goodness": 88,
+        "beauty": 84,
+        "intelligence": 86
+      }
+    },
+    {
+      "id": "hist_rep_gongshang_technology",
+      "title": "宋应星天工开物",
+      "researcher": "宋应星 (1637) → 现代工程 (2026)",
+      "temporalSpan": 389,
+      "domain": "Engineering",
+      "origin": "East",
+      "datmScore": {
+        "truth": 86,
+        "goodness": 87,
+        "beauty": 85,
+        "intelligence": 85
+      }
+    },
+    {
+      "id": "hist_rep_huang_di_neijing",
+      "title": "黄帝内经",
+      "researcher": "黄帝内经 (-200) → 现代医学 (2026)",
+      "temporalSpan": 2226,
+      "domain": "Traditional Chinese Medicine",
+      "origin": "East",
+      "datmScore": {
+        "truth": 88,
+        "goodness": 92,
+        "beauty": 85,
+        "intelligence": 89
+      }
+    },
+    {
+      "id": "hist_rep_cai_lun_paper",
+      "title": "蔡伦造纸术",
+      "researcher": "蔡伦 (105) → 现代材料 (2026)",
+      "temporalSpan": 1921,
+      "domain": "Materials Science",
+      "origin": "East",
+      "datmScore": {
+        "truth": 89,
+        "goodness": 90,
+        "beauty": 86,
+        "intelligence": 87
+      }
+    }
+  ]
+}
